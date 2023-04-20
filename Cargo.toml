@@ -17,4 +17,8 @@ path="src/bottom-up.rs"
 name="knapsack"
 path="src/knapsack.rs"
 
+[[bin]]
+name="bellman-ford"
+path="src/bellman-ford.rs"
+
 [dependencies]
